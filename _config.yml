@@ -60,8 +60,12 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: My CV
+  - title: 苏宙行的简历
     url: http://suzhouxing.github.io
+  - title: Zhouxing Su's Resume
+    url: http://suzhouxing.github.io/index.en.html
+  - title: 智慧计算与优化实验室
+    url: http://smart.hust.edu.cn
 
 timeline:
   - num: 1
