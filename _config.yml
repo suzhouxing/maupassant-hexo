@@ -60,14 +60,18 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 苏宙行的简历
-    url: http://suzhouxing.github.io
-  - title: Zhouxing Su's Resume
-    url: http://suzhouxing.github.io/index.en.html
+  - title: 苏宙行的简历 (Gitee)
+    url: https://suzhouxing.gitee.io
+  - title: 苏宙行的简历 (Github)
+    url: https://suzhouxing.github.io
+  - title: Zhouxing Su's Resume (Gitee)
+    url: https://suzhouxing.gitee.io/index.en.html
+  - title: Zhouxing Su's Resume (Github)
+    url: https://suzhouxing.github.io/index.en.html
   - title: 智慧计算与优化实验室
     url: http://smart.hust.edu.cn
-  - title: 叶琛的博客
-    url: http://galaxy_chenchen.coding.me/blog/
+  # - title: 叶琛的博客
+  #   url: http://galaxy_chenchen.coding.me/blog/
 
 timeline:
   - num: 1
